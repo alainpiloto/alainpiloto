@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alainpiloto.
 - 👀 I’m interested in Web Development.
 - ❤️ I love learn and create projects.
-- 🌱 I’m currently learning advanced concepts about JavaScript.
+- 🌱 I’m currently developing my skills in React.Js.
 - 📫 How to reach me alainpiloto@gmail.com
 
 <!---
