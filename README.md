@@ -1,26 +1,60 @@
-# - 👋 Hi, I’m Alain Piloto.
-- 👀 I’m interested in Web Development.
-- ❤️ I love learn and create projects.
-- 🌱 I’m currently developing my skills in React.Js.
-- 📫 How to reach me alainpiloto@gmail.com
-- 🎨 Checkout my Portfolio in: https://alainpiloto.github.io
+<!-- Profile README – last updated 2025‑07‑17 -->
+<h1 align="center">Hi there 👋, I'm Alain Piloto</h1>
 
-## 💻Technologies & 🔨 Tools used by me: 
-<div style="display : inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60"/>
+<p align="center">
+  Self‑taught Software Engineer • <strong>Squad Lead</strong> & Technical Lead&nbsp;@ Jelou AI • Founder of <a href="https://flowinggo.com">FlowingGo</a><br>
+  Building AI‑powered products, elegant UIs, and end‑to‑end automations
+</p>
 
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alainpiloto.alainpiloto" alt="visitor badge">
+  <a href="https://twitter.com/pilotoalain"><img alt="Twitter Follow"
+    src="https://img.shields.io/twitter/follow/pilotoalain?style=social"></a>
+  <a href="https://www.linkedin.com/in/alainpiloto/"><img alt="LinkedIn"
+    src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 
+---
 
-<!---
-alainpiloto/alainpiloto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 What I’m working on
+
+- **FlowingGo** – SaaS turning Google Calendar events into WhatsApp reminders for medical & dental clinics  
+- **Leading a cross‑functional squad** at Jelou AI: delivering a conversational AI platform (Node.js + TypeScript, AWS, Clean Architecture)  
+- **Home‑lab & IoT**: voice assistant on ESP32 ↔ FastAPI server with Whisper & GPT  
+
+### 🛠 Tech Toolbox
+
+| ⚙️ Area | ✨ Stack & Tools |
+| :--- | :--- |
+| **Languages** | JavaScript / TypeScript · Python · SQL |
+| **Frameworks** | Next.js · React · Tailwind · NestJS · FastAPI |
+| **Data** | MySQL · PostgreSQL · Prisma · Redis |
+| **Cloud & DevOps** | Docker · Railway · AWS (Lambda, S3, API GW) · GitHub Actions |
+| **AI & Automation** | OpenAI APIs · LangChain · CrewAI · n8n · MCP |
+| **Misc.** | Strapi · Pusher · React‑Flow |
+
+### 🌱 Currently leveling up
+
+- IBM **AI Engineer Professional Certificate** (Coursera)  
+- Advanced backend patterns (DDD, Hexagonal, Event‑Driven)  
+- Vector databases & cost‑efficient AI agents  
+- Electronics fundamentals & PCB design  
+
+### 📊 GitHub stats (Public repos)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alainpiloto&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpiloto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+### 🗣 Let’s connect
+
+- 📨 **Email:** alainpiloto@gmail.com  
+- 🐦 **Twitter:** [@pilotoalain](https://twitter.com/pilotoalain)  
+- 💼 **LinkedIn:** [linkedin.com/in/alainpiloto](https://linkedin.com/in/alain-piloto-moreno-982a0b45)  
+- 🌐 **Portfolio & Blog:** [alainpiloto.github.io](https://alainpiloto.github.io/)
+
+---
+
+> *“Code is the canvas; automation is the brush—together they paint scalable solutions.”*  
+> — Alain Piloto
