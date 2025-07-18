@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Alain Piloto</h1>
 
 <p align="center">
-  Self‑taught Software Engineer • <strong>Squad Lead</strong> & Technical Lead&nbsp;@ Jelou AI • Founder of <a href="https://flowinggo.com">FlowingGo</a><br>
+  Self‑taught Software Engineer • <strong>Squad Lead</strong> & Technical Lead&nbsp;@ Jelou AI • Founder of <a href="https://flowinggo.com/home">FlowingGo</a><br>
   Building AI‑powered products, elegant UIs, and end‑to‑end automations
 </p>
 
@@ -10,7 +10,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alainpiloto.alainpiloto" alt="visitor badge">
   <a href="https://twitter.com/pilotoalain"><img alt="Twitter Follow"
     src="https://img.shields.io/twitter/follow/pilotoalain?style=social"></a>
-  <a href="https://www.linkedin.com/in/alainpiloto/"><img alt="LinkedIn"
+  <a href="https://linkedin.com/in/alain-piloto-moreno-982a0b45"><img alt="LinkedIn"
     src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
